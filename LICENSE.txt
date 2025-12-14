@@ -1,0 +1,143 @@
+
+TERMS OF SERVICE and PRIVACY POLICY
+
+
+
+---------------------------------
+
+
+
+TERMS OF SERVICE
+Last Updated: 13/12/2025
+
+1. Introduction 
+These Terms of Service (“Terms”) govern your access to and use of the Startrails Stacker application (“App”), operated by Startrails Stacker, a trade name owned and operated by Adam Steinberg, based in New Hampshire, United States (“we,” “us,” or “our”). By installing, copying, or otherwise using the Startrails Stacker application, you agree to be bound by these Terms. If you do not agree, do not install or use the App.
+
+2. Eligibility
+You must be at least 18 years old or have parental/guardian consent to use this App. By using the App, you represent that you meet this requirement and that all information you provide is accurate and up to date.
+
+3. License and Use 
+When you subscribe to the App, you are purchasing a revocable, non-exclusive, non-transferable license to use Startrails Stacker for your own purposes, whether personal or commercial. You do not own the software or any of its source code.
+You may not: 
+- Reverse engineer, decompile, or attempt to access the source code
+- Share, sublicense, or redistribute the App
+- Use the App for unlawful purposes or in a way that could damage, disable, or impair its functionality.
+
+4. Subscriptions and Payments 
+Subscriptions and payments are processed securely by lemonsqueezy.com acting as the Merchant of Record. By subscribing, you authorize Lemon Squeezy to charge your chosen payment method on a recurring basis (monthly or yearly, depending on your selected plan).
+All billing, receipts, and tax invoices are handled through Lemon Squeezy in accordance with their terms and policies.
+You can manage or cancel your subscription at any time via the Lemon Squeezy subscription management link provided in your purchase confirmation email.
+
+5. Refund Policy 
+Refunds may be granted on a case-by-case basis at our sole discretion. For example, refunds may be offered as part of promotional campaigns (such as users who share the App on their Instagram story) or in special circumstances.
+Refunds are processed via lemonsqueezy.com, the authorized reseller and Merchant of Record for Startrails Stacker.
+To request a refund, contact us via the information below and include your order details.
+
+6. Data Collection and Privacy 
+The App may automatically collect limited diagnostic or crash report data to help us identify and fix technical issues. This data may include error logs, device type, operating system version, and App usage information. We do not collect personal information unrelated to the App’s functionality.
+All data is handled in accordance with our Privacy Policy.
+
+7. Support and Contact 
+We provide basic technical support via email or through the contact form on our website. Response times may vary depending on request volume and complexity.
+For support or inquiries, contact us at: 
+Email: startrails.stacker@gmail.com Website: www.startrails-stacker.com
+
+8. Intellectual Property 
+All intellectual property rights in the App, including its code, design, graphics, and documentation, remain the property of Startrails Stacker (a trade name owned and operated by Adam Steinberg). You may not reproduce or distribute any part of the App without prior written permission.
+This ownership does not extend to third-party open-source libraries used within the application, including PySide6 (Qt for Python) and Qt Designer, which remain the property of their respective copyright holders and are licensed under the GNU Lesser General Public License (LGPL).
+
+9. Termination
+We reserve the right to suspend or terminate your license and access to the App if you violate these Terms or misuse the software. Upon termination, you must immediately stop using the App and delete any copies you possess.
+
+10. Disclaimers
+The App is provided “as is” without warranties of any kind, whether express or implied. We do not guarantee that the App will be error-free or uninterrupted. To the maximum extent permitted by law, we disclaim all warranties, including merchantability, fitness for a particular purpose, and non-infringement.
+
+11. Limitation of Liability 
+To the fullest extent permitted by law, Startrails Stacker (a trade name owned and operated by Adam Steinberg) shall not be liable for any indirect, incidental, or consequential damages, including but not limited to loss of profits, data, or business opportunities, arising from your use or inability to use the App.
+Your sole remedy for dissatisfaction with the App is to stop using it.
+
+12. Governing Law 
+These Terms are governed by the laws of the State of New Hampshire, United States, without regard to conflict of law principles. Any disputes shall be subject to the exclusive jurisdiction of the state and federal courts located in New Hampshire, United States.
+If you access or use the App from outside the United States, you do so at your own initiative and are responsible for compliance with applicable local laws.
+
+13. Changes to These Terms
+We may update or modify these Terms from time to time. Any changes will be effective upon posting on our website or within the App. Continued use after changes means you accept the revised Terms.
+
+14. Third-Party Libraries
+Startrails Stacker uses third-party software components, including PySide6 (Qt for Python) and Qt Designer, both licensed under the GNU Lesser General Public License (LGPL).
+You may obtain, modify, and replace these libraries as permitted by their respective licenses. The source code for these libraries and their license texts are available from the Qt Project at https://www.qt.io/licensing.
+In addition to PySide6 and Qt Designer, Startrails Stacker may use other open-source components licensed under MIT, BSD, or similar permissive licenses. These libraries are used in accordance with their respective terms, and their copyright notices are included within the distributed application files where required.
+By using this application, you agree that these third-party components are provided under their respective licenses and that Adam Steinberg has no ownership or affiliation with the maintainers of these libraries.
+
+15. Contact Information 
+If you have any questions about these Terms, please contact us at: 
+Email: startrails.stacker@gmail.com Website: www.startrails-stacker.com 
+
+
+
+
+---------------------------------
+
+
+
+
+PRIVACY POLICY
+Last Updated: 13/12/2025
+
+1. Introduction
+This Privacy Policy explains how Startrails Stacker (“we,” “us,” or “our”) collects, uses, and protects your information when you use the Startrails Stacker application (“App”) or interact with our website. Startrails Stacker is a trade name owned and operated by Adam Steinberg, based in New Hampshire, United States. By installing, copying, or otherwise using the Startrails Stacker application, you consent to the collection and use of your information as described below.
+
+2. Information We Collect
+
+a. Crash Reports and Diagnostic Data To improve the App’s performance and fix technical issues, the App may automatically collect limited diagnostic information, such as: 
+- Error logs and crash reports 
+- Device type and operating system version App usage patterns
+This information is strictly used to identify, diagnose, and fix technical problems. It does not include personal information unrelated to the App.
+
+b. Account and Contact Information If you provide your email to subscribe to the App, request support, or sign up for marketing communications, we may collect:
+- Email Address 
+- Name
+When you make a purchase or subscription through our payment processor (Lemon Squeezy), Lemon Squeezy may collect and process certain personal and payment information on our behalf, in accordance with their own Privacy Policy.
+    
+c. Marketing and Newsletters With your consent, we may use your email to send: - Product updates and newsletters - Promotional offers and campaigns
+You may unsubscribe from these communications at any time via the links provided in the emails or by contacting us.
+
+3. How We Use Your Information
+ We use the information we collect for the following purposes: 
+- To provide and maintain the App 
+- To monitor and improve App performance and functionality 
+- To respond to support requests and inquiries 
+- To send marketing communications if you opted in
+
+4. Information Sharing and Disclosure
+We do not sell, trade, or rent your personal information to third parties. We may share information: 
+- With service providers, such as Lemon Squeezy, for payment processing and subscription management 
+- If required by law or to protect our legal rights
+
+5. Data Retention 
+We retain personal information only as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. Diagnostic and crash data is retained until it is no longer needed to improve the App.
+
+6. Your Rights 
+Depending on your location, you may have rights regarding your personal information, including: 
+- Accessing the data we hold about you 
+- Requesting correction or deletion of your personal data 
+- Opting out of marketing communications to exercise these rights, contact us at the details below.
+
+7. Security
+We implement reasonable technical and organizational measures to protect the information we collect from unauthorized access, disclosure, or misuse. However, no method of transmission or storage is completely secure.
+
+8. Children’s Privacy
+The App is not intended for use by children under 18. We do not knowingly collect personal information from minors. If we discover that we have inadvertently collected personal data from a minor, we will delete it promptly.
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be posted on our website or within the App, with the “Last Updated” date updated accordingly. Continued use of the App after changes constitutes acceptance of the revised policy.
+
+10. Third-Party Software
+Startrails Stacker includes third-party components such as PySide6 (Qt for Python) and Qt Designer, which are distributed under the LGPL license. These components do not independently collect or transmit any personal data.
+The application may also use other open-source libraries licensed under permissive terms (such as MIT or BSD). These libraries operate locally within the application and do not gather any user information. Any data collection described in this policy applies only to Startrails Stacker’s own functionality, such as crash reporting or diagnostic logs.
+These open-source components are used in accordance with their respective licenses, and full license texts are available upon request or in the application distribution folder.
+
+11. Contact Us
+If you have questions about this Privacy Policy or your personal data, please contact us at:
+Startrails Stacker (a trade name owned and operated by Adam Steinberg)
+Email: startrails.stacker@gmail.com Website: www.startrails-stacker.com
